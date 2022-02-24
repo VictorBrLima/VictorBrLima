@@ -34,11 +34,14 @@
   <img align="center" alt="Victor-Matlab" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
  </div>
  
-   ## <p align=center>  Frameworks
+   ## <p align=center>  Analytics
 
   <div style="display: inline_block" align=center>
-
-    
+  <img align="center" alt="Victor-PowerBI" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" />
+  <img align="center" alt="Victor-Tableu" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
+  <img align="center" alt="Victor-Minitab" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/minitab/minitab-original.svg" />
+  
+ </div>
    ## Extras
 
   <div style="display: inline_block" align=center>
