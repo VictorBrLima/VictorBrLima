@@ -42,7 +42,6 @@
    ## Extras
 
   <div style="display: inline_block" align=center>
-  <img align="center" alt="Victor-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img align="center" alt="Victor-Tensor" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tensorflow/tensorflow-original.svg" />
   <img align="center" alt= "Victor-css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Victor-html5" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
