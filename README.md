@@ -1,28 +1,26 @@
 ![](https://komarev.com/ghpvc/?username=caiomorozini&color=006bed) 
-# Hello World, I am Caio Morozini.
+# Hello World, I am Victor Brazil.
 
-  <a href="https://www.gitlab.com/caiomorozini" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
-  <a href = "mailto:caiomorozini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-morozini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:victor.br.lima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/victorbrlima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  # <p align=center>  About me 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 😍 &nbsp; Passionate about technology and curious to generate new solutions from it.
 - 🎓 &nbsp; Studying electrical engineering with a specialization in biomedical engineering at <a href="https://www.unifesp.br/campus/sjc/">Federal University of São Paulo</a>.
-- 🎓 &nbsp; I have a degree in science and technology from the <a href="https://www.unifesp.br/campus/sjc/"> Federal University of São Paulo </a>
-- 🪒 &nbsp; I currently work as a backend developer at <a href="https://risk3.com.br/"> Risk 3 </a>
-![Snake animation](https://github.com/caiomorozini/caiomorozini/blob/output/github-contribution-grid-snake.svg)
+- 🎓 &nbsp; Graduated in Science and Technology from the <a href="https://www.unifesp.br/campus/sjc/"> Federal University of São Paulo </a>
+- 🪒 &nbsp; I currently work in the quality area at <a href="https://www.comprehense.com.br/"> Comprehense </a>
   
   # 🚀 Projects im currently working on
    
    
-  - WebCrawlers for Risk analysis
+  - Medical equipment failure prediction software
   
-  - API for hospital clinical engineering (With FastAPI and Flask)
+  - Automating Reports with Python and Power BI
     
-  - Signal processing from electroencephalographic records of patients with spinal cord injury
+  - Autonomous statistical analysis of medical exams
   
-  - Website for calculating TDEE and TMB   
+  - Prediction of future NBA champions and their causes   
    
    
  # <p align=center> Technologies
@@ -30,36 +28,24 @@
   ## <p align=center> Languages
 
   <div style="display: inline_block" align=center>
-  <img align="center" alt="Caio-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="Caio-Javascript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="center" alt="Caio-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Caio-Matlab" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+  <img align="center" alt="Victor-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt= "Victor-MySQL" height="70" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Victor-C" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Victor-Matlab" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
  </div>
  
    ## <p align=center>  Frameworks
 
   <div style="display: inline_block" align=center>
-  <img align="center" alt= "Caio-Django" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
-  <img align="center" alt= "Caio-flask" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-  <img align="center" alt="Caio-Node" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
     
    ## Extras
 
   <div style="display: inline_block" align=center>
-  <img align="center" alt="Caio-Postgresql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="Caio-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img align="center" alt="Caio-Ubuntu" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="center" alt="Caio-Sqlalchemy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
-  <img align="center" alt= "Caio-css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Caio-html5" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Caio-Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img align="center" alt="Victor-Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img align="center" alt="Victor-Tensor" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/tensorflow/tensorflow-original.svg" />
+  <img align="center" alt= "Victor-css3" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="Victor-html5" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="Victor-Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
  </div>
-
-  # <p align=center> 📚 technologies i am currently looking to learn
-
-  <img align="center" alt= "Caio-mongodb" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
-  <img align="center" alt= "Caio-mongodb" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img align="center" alt= "Caio-BootStrap" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt= "Caio-TensorFlow" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-  <img align="center" alt= "Caio-TensorFlow" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
