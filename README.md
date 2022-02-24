@@ -37,7 +37,7 @@
    ## <p align=center>  Analytics
 
   <div style="display: inline_block" align=center>
-  <img align="center" alt="Victor-PowerBI" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" />
+  <img align="center" alt="Victor-PowerBI" height="50" width="60" src="https://static.wikia.nocookie.net/logopedia/images/2/2c/Microsoft_Power_BI_%282020%29.svg/revision/latest/scale-to-width-down/96?cb=20200929195935" />
   <img align="center" alt="Victor-Tableu" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />
   <img align="center" alt="Victor-Minitab" height="50" width="60" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/minitab/minitab-original.svg" />
  </div>
